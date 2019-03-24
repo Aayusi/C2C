@@ -2,5 +2,6 @@
 
 ## TRUSS ISSUES
 
-### Objective: To make more relible and cost effective truss bridge designs, reducing 
+### Objective: 
+To make more reliable and cost effective truss bridge designs, reducing the manual design iterations and their 
 
